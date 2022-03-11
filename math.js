@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function math() {
   return (
-    <div>math//////////////a+bgit checkout -b feature-3</div>
+    <div>math//////////////x+ygit checkout -b feature-3</div>
   )
 }
 console.log('je');
